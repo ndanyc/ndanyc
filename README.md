@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFhM3J5cnZrY2dzajBlbnRqZ3dtNWJ6OTQzNjc2OTdndXhicGdrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pFwRzOLfuGHok/giphy.gif" width="300px" height="300px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXllajcybXVhc3J6eGxpdXU3NGU5dXoyNW00Nms4Y2l1cW9mY3g3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="235px" height="135px" />
 </div>
 <!--
 **ndanyc/ndanyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
