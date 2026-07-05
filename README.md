@@ -1,4 +1,3 @@
-
 <!-- Бейджики -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +21,7 @@
 <br>
 
 <!-- ============================================= -->
-<!-- 🇬🇧 АНГЛИЙСКАЯ ВЕРСИЯ -->
+<!-- en АНГЛИЙСКАЯ ВЕРСИЯ -->
 <!-- ============================================= -->
 <div id="english">
 
@@ -99,5 +98,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91cm5mMjRrYzdleGlwZDF5NWF0NmRiYXA2Z3Z6M2dyNGFuNjdieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="235px" height="135px" />
   <br>
-  <i>Это я, когда пытаюсь разобраться в новой теме... 🐒</i>
+  <i>That's me trying to figure out a new topic... 🐒</i>
+  <br>
+  <i>(Это я, когда пытаюсь разобраться в новой теме...)</i>
 </div>
