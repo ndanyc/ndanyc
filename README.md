@@ -1,20 +1,103 @@
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91cm5mMjRrYzdleGlwZDF5NWF0NmRiYXA2Z3Z6M2dyNGFuNjdieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="235px" height="135px" />
+<!-- Бейджики -->
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web3-3F3F3F?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20QA-1E90FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </div>
+
 <hr>
-<p align="center">Hey! Here are my steps while learning programming. <br>Follow and we'll see how things turn out.</p>
-<!--
-**ndanyc/ndanyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- 📌 ПАНЕЛЬ ПЕРЕКЛЮЧЕНИЯ ЯЗЫКА -->
+<div align="center">
+  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-0052CC?style=for-the-badge&logo=ReadMe&logoColor=white" /></a>
+  <a href="#russian"><img src="https://img.shields.io/badge/🇷🇺_РУССКИЙ-D52A2A?style=for-the-badge&logo=ReadMe&logoColor=white" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- ============================================= -->
+<!-- 🇬🇧 АНГЛИЙСКАЯ ВЕРСИЯ -->
+<!-- ============================================= -->
+<div id="english">
+
+  <p align="center">
+    <b>Hey! I'm Daniil (ndanyc).</b><br>
+    Starting my IT journey with Manual QA, with a long-term goal of moving into CyberSecurity. 🛡️
+  </p>
+
+  ---
+
+  ### 👨‍💻 Who I am right now
+
+  - 🎓 Student at **Hexlet College** (1st year, Information Systems & Programming).
+  - 🚛 Currently working as a driver on a 3/3 shift schedule, with the goal of transitioning into an IT role after finishing my studies.
+  - 🔍 Self-studying **Manual QA** (bug reports, test cases, checklists) in my free time.
+  - 🧪 Participated in testnets for **10+ crypto protocols**. Hands-on experience with UX testing, DApps, and node deployment (following tutorials via Linux).
+
+  ---
+
+  ### 🎯 Where I'm heading next
+
+  After mastering QA fundamentals, I plan to dive deeper into **CyberSecurity**.  
+  I'm fascinated by vulnerability research and how systems are secured. QA is the perfect foundation for this path.
+
+  ---
+
+  ### 📂 My QA Portfolio
+
+  All of my practice work, bug reports, and Web3-testing experience:  
+
+  👉 **`ndanyc/qa-portfolio`**
+
+  Includes:
+  - `test-cases` & `bug-reports` (First steps in professional QA).
+  - `web3-qa-portfolio` (Testing DApps and crypto startups).
+
+  <br>
+  <div align="center">
+    <a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_top-808080?style=for-the-badge" /></a>
+  </div>
+</div>
+
+<br><br>
+
+<!-- ============================================= -->
+<!-- 🇷🇺 РУССКАЯ ВЕРСИЯ -->
+<!-- ============================================= -->
+<div id="russian">
+
+  <hr>
+  <h3 align="center">🇷🇺 Обо мне по-русски</h3>
+
+  **Привет! Я Даниил (ndanyc).**
+
+  - 🎓 Студент 1-го курса **Hexlet College** (Информационные системы и программирование). База: HTML, CSS, JS, Git.
+  - 🚛 Сейчас работаю водителем (график 3/3), а в свободное время я учусь IT.
+  - 🔍 Самостоятельно изучаю **Manual QA**. В планах — найти первую стажировку или работу в IT этой осенью или зимой.
+  - 🧪 Участвовал в тестнетах 10+ криптопроектов (UX, DApps, запуск нод по гайдам).
+  - 🎯 Дальше хочу расти в сторону **CyberSecurity** — меня привлекает тема взлома и защиты систем.
+
+  Мои учебные кейсы и наработки лежат здесь: 👉 **`ndanyc/qa-portfolio`**
+
+  <br>
+  <div align="center">
+    <a href="#top"><img src="https://img.shields.io/badge/⬆_Наверх-808080?style=for-the-badge" /></a>
+  </div>
+</div>
+
+<br><br>
+
+<!-- ============================================= -->
+<!-- 🔚 ГИФКА -->
+<!-- ============================================= -->
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91cm5mMjRrYzdleGlwZDF5NWF0NmRiYXA2Z3Z6M2dyNGFuNjdieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="235px" height="135px" />
+  <br>
+  <i>Это я, когда пытаюсь разобраться в новой теме... 🐒</i>
+</div>
