@@ -55,8 +55,8 @@
   👉 **`ndanyc/qa-portfolio`**
 
   Includes:
-  - `test-cases` & `bug-reports` (First steps in professional QA).
-  - `web3-qa-portfolio` (Testing DApps and crypto startups).
+  - `test-cases` & `bug-reports`
+  - `web3-qa-portfolio`
 
   <br>
   <div align="center">
@@ -97,8 +97,8 @@
   👉 **`ndanyc/qa-portfolio`**
 
   Включает:
-  - `test-cases` & `bug-reports` (Мои первые шаги в профессиональном QA).
-  - `web3-qa-portfolio` (Тестирование DApps и крипто-стартапов).
+  - `test-cases` & `bug-reports`
+  - `web3-qa-portfolio` 
 
   <br>
   <div align="center">
